@@ -1,0 +1,5 @@
+source/
+images/
+output_pdf/
+_*.txt
+__pycache__/
